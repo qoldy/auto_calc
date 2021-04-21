@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AutoCalc</string>
+    <string-array name="categories">
+        <item>Бензин</item>
+        <item>Штрафы</item>
+        <item>Тех. обслуживание</item>
+    </string-array>
+    <string-array name="categories_report">
+        <item>Все затраты</item>
+        <item>Бензин</item>
+        <item>Штрафы</item>
+        <item>Тех. обслуживание</item>
+    </string-array>
+    <string-array name="time">
+        <item>За все время</item>
+        <item>За последний год</item>
+        <item>За последние полгода</item>
+        <item>За последний месяц</item>
+        <item>За последнюю неделю</item>
+    </string-array>
+</resources>
